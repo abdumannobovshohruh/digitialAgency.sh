@@ -287,13 +287,15 @@ width: 50%;
 .yelloC-2{
     margin-left: 0;
     display: block;
+    text-align: center;
 }
 .artP2{
     margin-top: 0;
     display: none;
 }
 .artP {
-    width: 100%;
+    width: 95%;
+    height: 100%;
 }
 .photoC{
     display: none;
@@ -302,10 +304,31 @@ width: 50%;
     width: 100%;
 }
 .arrow-right{
+    margin: 30px;
     text-align: center;
 }
 .arrowC{
     padding-top: 20px;
     padding-bottom: 30px;
+}
+.num-text {
+    margin-top: 34px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFC;
+}
+.key2 {
+    width: 200px;
+    margin: auto;
+}
+.client-text {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFC;
+}
+.work-text {
+    font-weight: 700;
+    font-size: 32px;
+    color: #020E10;
 }
 }
