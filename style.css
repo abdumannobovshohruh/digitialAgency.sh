@@ -73,6 +73,8 @@ margin-top: 0px;
 text-align: center;
 }
 .while{
+    padding-top: 20px;
+    padding-bottom: 40px;
 text-align: center;
 }
 /*                     section1               */
@@ -218,8 +220,7 @@ margin: auto;
 }
 .tornadoP{
 margin-top: 20px;   
-
-width: 10%;
+width: 20%;
 }
 /*      nav bootstrap            */
 .zero{
@@ -294,7 +295,7 @@ width: 50%;
     display: none;
 }
 .artP {
-    width: 95%;
+    width: 90%;
     height: 100%;
 }
 .photoC{
