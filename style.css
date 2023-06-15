@@ -1,0 +1,306 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+font-family: 'Nunito Sans', sans-serif;
+}
+header{
+background: #016170;
+}
+.list{
+list-style: none;
+display: flex;
+justify-content: space-between;
+}
+.zero{
+display: none;
+}
+.containe_R{
+width: 1120px;
+margin: auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.li_a{
+margin-left: 20px;
+text-decoration: none;
+font-weight: 600;
+font-size: 16px;
+color: grey;
+}
+.li_a:hover{
+transition: 1s;
+color: #FFFFFC;
+}
+.hr1{
+/* height: 20px; */
+color: white;
+margin-top: 20px;
+}
+/*                navbar end              */
+.digital-agency{
+padding-top: 100px;
+font-weight: 700;
+font-size:70px;
+color: #FFFFFC;
+text-align: center;
+margin: auto;
+}
+.we-text{
+margin-top: 15px;
+text-align: center;
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFC;
+}
+.tornadoP{
+width: 65.28px;
+height: 85.16px;
+margin: auto;
+margin-left: 70px;
+margin-bottom: 40px;
+}
+.you-text{
+color: #020E10;
+font-weight: 700;
+font-size: 40px;
+}
+.tornadoC{
+margin-top: 0px;
+text-align: center;
+}
+.while{
+text-align: center;
+}
+/*                     section1               */
+main{
+background: #EBE2D9;
+}
+.nav1{
+padding-top: 20px;
+}
+.content-text{
+font-weight: 700;
+font-size: 24px;
+color: #020E10;
+}
+.minim-text{
+font-weight: 400;
+font-size: 14px;
+color: #020E10;
+}
+.seoCard{
+width: 500px;
+display: flex;
+}
+.seoCard-1{
+padding: 20px;
+border: 1px solid grey;
+}
+.pro-text{
+font-weight: 400;
+font-size: 18px;
+color: #020E10;
+}
+.key{
+width: 1120px;
+margin: auto;
+padding-top: 50px;
+padding-bottom: 50px;
+display: flex;
+justify-content: space-around;
+}
+/*               seciton2              */
+.section2{
+background: #020E10;
+}
+.num-text{
+font-weight: 700;
+font-size: 60px;
+color: #FFFFFC;
+}
+.client-text{
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFC;
+}
+.hr2{
+background: #FFFFFC;
+height: 3px;
+}
+.key2{
+width: 200px;
+}   
+/*                  seciton3            */
+.workC{
+    padding-top: 100px;
+    padding-bottom: 40px;
+width: 1120px;
+margin: auto;
+}
+.work-text{
+font-weight: 700;
+font-size: 48px;
+color: #020E10;
+}
+.yelloC{
+    padding-top: 550px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.category-text{
+    font-weight: 400;
+font-size: 16px;
+color: #020E10;
+text-decoration: none;
+}
+.yello-text{
+    font-weight: 700;
+font-size: 24px;
+color: #020E10;
+}
+.workC2{
+    display: flex;
+}
+.artP , .artP2{
+    width: 400px;
+    height: 300px;
+}
+.yelloC-2{
+    margin-left: 40px;
+}
+.photoC-4{
+    top: -50px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.artP2{
+margin-top: 30px;
+}
+.arrow-right{
+    text-align: end;
+}
+/*  */
+.section12{
+    display: none;
+}
+@media (max-width:575px) {
+body{
+width: 100%;
+}
+.seoCard1{
+    width: 100%;
+}
+
+.list{
+display: none;
+}
+.digital-agency {
+padding-top: 100px;
+width: 100%;
+font-weight: 700;
+font-size: 31px;
+color: #FFFFFC;
+text-align: center;
+margin: auto;
+}
+.section12{
+    display: block;
+}
+.section1{
+    display:  none;
+}
+.tornadoP{
+margin-top: 20px;   
+
+width: 10%;
+}
+/*      nav bootstrap            */
+.zero{
+display: block;
+width: 100%;
+}
+.container-fluid{
+background-color: #016170;
+}
+.navbar-toggler{
+background-color: #FFFFFC;
+border: none;
+outline: none;
+
+}
+.nav1{
+display: none;
+}
+.while{
+width: 39%;
+}
+/*               */
+.containe_R{
+width: 100%;
+}
+.seoCard{
+/* display: inline; */
+flex-wrap: wrap;
+width: 50%;
+}
+.you-text {
+/* margin-top: -837px; */
+/* color: #020E10;
+font-weight: 700;
+font-size: 11px; */
+display: none;
+}
+.minim-text {
+font-weight: 400;
+font-size: 8px;
+color: #020E10;
+}
+.content-text {
+font-weight: 700;
+font-size: 13px;
+color: #020E10;
+}
+.pro-text {
+font-weight: 400;
+font-size: 10px;
+color: #020E10;
+}
+.arrowP{
+width: 50%;
+}
+/*         section2       */
+.key{
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+
+/*        section3       */
+.yelloC-2{
+    margin-left: 0;
+    display: block;
+}
+.artP2{
+    margin-top: 0;
+    display: none;
+}
+.artP {
+    width: 100%;
+}
+.photoC{
+    display: none;
+}
+.workC{
+    width: 100%;
+}
+.arrow-right{
+    text-align: center;
+}
+}
