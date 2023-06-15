@@ -259,13 +259,13 @@ display: none;
 }
 .minim-text {
     font-weight: 400;
-    font-size: 11px;
+    font-size: 13px;
     color: #020E10;
 }
 .content-text {
-font-weight: 700;
-font-size: 13px;
-color: #020E10;
+    font-weight: 700;
+    font-size: 18px;
+    color: #020E10;
 }
 .pro-text {
     display: none;
