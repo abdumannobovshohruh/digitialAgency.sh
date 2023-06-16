@@ -192,6 +192,61 @@ margin-top: 30px;
 .section12{
     display: none;
 }
+/*            seciton4    */
+.people-text{
+    padding-top: 80px;
+    padding-bottom: 50px;
+    font-weight: 700;
+font-size: 48px;
+color: #FFFFFC;
+}
+.section4{
+    background: #016170;
+}
+.peopleCard{
+    width: 1120px;
+    margin: auto;
+}
+.jeromeCard2{
+    display: flex;
+}
+.jeromeCard3{
+    margin-top: 20px;
+    padding-left: 10px;
+}
+.bell-text{
+    font-weight: 700;
+font-size: 18px;
+color: #FFFFFC;
+line-height: 5px;
+}
+.desic-text{
+    font-weight: 400;
+font-size: 14px;
+color: grey;
+}
+.jeromeCard{
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+}
+.jeromeCard:hover{
+    transition: 1s;
+    background-color: black;
+}
+.offic-text{
+font-weight: 400;
+font-size: 14px;
+color: #FFFFFC;
+}
+.jeromC{
+    display: flex;
+    justify-content: space-between;
+}
+.jeromeC2{
+    display: none;
+}
+
 @media (max-width:575px) {
 body{
 width: 100%;
@@ -246,17 +301,34 @@ width: 39%;
 .containe_R{
 width: 100%;
 }
+.seoCard-1{
+margin: 20px;
+
+}
 .seoCard{
 /* display: inline; */
 flex-wrap: wrap;
 width: 50%;
 }
-.you-text {
-/* margin-top: -837px; */
-/* color: #020E10;
+/* .you-text {
+color: #020E10;
 font-weight: 700;
-font-size: 11px; */
-display: none;
+font-size: 31px;
+width: 100%;
+margin: auto;
+} */
+.you-text{
+    font-family: 'Wagon';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* or 150% */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+/* Secondary */
+color: #020E10;
 }
 .minim-text {
     font-weight: 400;
@@ -268,10 +340,17 @@ display: none;
     font-size: 18px;
     color: #020E10;
 }
-.pro-text {
-    display: none;
+/* .pro-text {
 font-weight: 400;
-font-size: 10px;
+font-size: 16px;
+color: #020E10;
+} */
+.pro-text{
+    font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
 color: #020E10;
 }
 .arrowP{
@@ -311,12 +390,15 @@ width: 50%;
 .arrowC{
     padding-top: 20px;
     padding-bottom: 30px;
+    text-align: center;
 }
 .num-text {
     margin-top: 34px;
     font-weight: 700;
     font-size: 30px;
     color: #FFFFFC;
+    font-family: 'Wagon';
+font-style: normal;
 }
 .key2 {
     width: 200px;
@@ -328,8 +410,24 @@ width: 50%;
     color: #FFFFFC;
 }
 .work-text {
+    font-family: 'Wagon';
+    font-style: normal;
     font-weight: 700;
     font-size: 32px;
     color: #020E10;
+}
+.jeromC{
+    display: none;
+}
+.jeromeC2{
+    display: block;
+    padding-bottom: 40px;
+}
+.jeromeCard{
+    width: 100%;
+    margin: auto;
+}
+.peopleCard{
+    width: 100%;
 }
 }
