@@ -206,6 +206,7 @@ color: #FFFFFC;
 .peopleCard{
     width: 1120px;
     margin: auto;
+    padding-bottom: 50px;
 }
 .jeromeCard2{
     display: flex;
@@ -387,6 +388,9 @@ width: 50%;
     margin: 30px;
     text-align: center;
 }
+.arrowRight{
+    width: 36%;
+}
 .arrowC{
     padding-top: 20px;
     padding-bottom: 30px;
@@ -429,5 +433,12 @@ font-style: normal;
 }
 .peopleCard{
     width: 100%;
+}
+.people-text {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    font-weight: 700;
+    font-size: 33px;
+    color: #FFFFFC;
 }
 }
