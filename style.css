@@ -333,6 +333,12 @@ font-weight: 700;
 font-size: 16px;
 color: #016170;
 }
+.read-text2{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    color: #020E10;
+    }
 .hold{
 padding-top: 50px;
 padding-bottom: 50px;
