@@ -247,7 +247,57 @@ color: #FFFFFC;
 .jeromeC2{
     display: none;
 }
-
+/*            footer         */
+footer{
+    background: #020E10;
+}
+.logotips{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.night{
+    font-size: 20px;
+    color: white;
+}
+.photoF{
+     padding-top: 50px;   
+    margin-bottom: 50px;
+}
+.copy-text{
+    font-weight: 400;
+font-size: 14px;
+color: #FFFFFC;
+line-height: 1px;
+}
+.company-text{
+    font-weight: 600;
+font-size: 20px;
+color: #FFFFFC;
+}
+.companyC{
+    padding-top: 50px;
+}
+.blog-text{
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFC;
+}
+.tele{
+    position: relative;
+    right: 40px;
+}
+.name{
+    background-color: black;
+    color: white;
+    outline: none;
+    /* border: none; */
+}
+.up-text{
+    font-weight: 600;
+font-size: 20px;
+color: #FFFFFC; 
+}
 @media (max-width:575px) {
 body{
 width: 100%;
@@ -440,5 +490,25 @@ font-style: normal;
     font-weight: 700;
     font-size: 33px;
     color: #FFFFFC;
+}
+/*          footer          */
+.nout{
+    display: block;
+}
+.companyC{
+    text-align: center;
+}
+.night{
+    margin-left: 20px;
+}
+.logotips{
+    justify-content: start;
+}
+.name{
+    width: 90%;
+}
+.free{
+    text-align: center;
+    padding-bottom: 50px;
 }
 }
