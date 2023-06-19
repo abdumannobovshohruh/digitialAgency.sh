@@ -73,8 +73,8 @@ margin-top: 0px;
 text-align: center;
 }
 .while{
-    padding-top: 20px;
-    padding-bottom: 40px;
+padding-top: 20px;
+padding-bottom: 40px;
 text-align: center;
 }
 /*                     section1               */
@@ -138,8 +138,8 @@ width: 200px;
 }   
 /*                  seciton3            */
 .workC{
-    padding-top: 100px;
-    padding-bottom: 40px;
+padding-top: 100px;
+padding-bottom: 40px;
 width: 1120px;
 margin: auto;
 }
@@ -149,91 +149,91 @@ font-size: 48px;
 color: #020E10;
 }
 .yelloC{
-    padding-top: 550px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+padding-top: 550px;
+display: flex;
+justify-content: space-around;
+align-items: center;
 }
 .category-text{
-    font-weight: 400;
+font-weight: 400;
 font-size: 16px;
 color: #020E10;
 text-decoration: none;
 }
 .yello-text{
-    font-weight: 700;
+font-weight: 700;
 font-size: 24px;
 color: #020E10;
 }
 .workC2{
-    display: flex;
+display: flex;
 }
 .artP , .artP2{
-    width: 400px;
-    height: 300px;
+width: 400px;
+height: 300px;
 }
 .yelloC-2{
-    margin-left: 40px;
+margin-left: 40px;
 }
 .photoC-4{
-    top: -50px;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+top: -50px;
+position: relative;
+display: flex;
+align-items: center;
+justify-content: space-around;
 }
 .artP2{
 margin-top: 30px;
 }
 .arrow-right{
-    text-align: end;
+text-align: end;
 }
 /*  */
 .section12{
-    display: none;
+display: none;
 }
 /*            seciton4    */
 .people-text{
-    padding-top: 80px;
-    padding-bottom: 50px;
-    font-weight: 700;
+padding-top: 80px;
+padding-bottom: 50px;
+font-weight: 700;
 font-size: 48px;
 color: #FFFFFC;
 }
 .section4{
-    background: #016170;
+background: #016170;
 }
 .peopleCard{
-    width: 1120px;
-    margin: auto;
-    padding-bottom: 50px;
+width: 1120px;
+margin: auto;
+padding-bottom: 50px;
 }
 .jeromeCard2{
-    display: flex;
+display: flex;
 }
 .jeromeCard3{
-    margin-top: 20px;
-    padding-left: 10px;
+margin-top: 20px;
+padding-left: 10px;
 }
 .bell-text{
-    font-weight: 700;
+font-weight: 700;
 font-size: 18px;
 color: #FFFFFC;
 line-height: 5px;
 }
 .desic-text{
-    font-weight: 400;
+font-weight: 400;
 font-size: 14px;
 color: grey;
 }
 .jeromeCard{
-    padding: 20px;
-    margin: 20px;
-    width: 300px;
+padding: 20px;
+margin: 20px;
+width: 300px;
 }
 .jeromeCard:hover{
-    transition: 1s;
-    background-color: black;
+transition: 1s;
+background-color: black;
 }
 .offic-text{
 font-weight: 400;
@@ -241,108 +241,109 @@ font-size: 14px;
 color: #FFFFFC;
 }
 .jeromC{
-    display: flex;
-    justify-content: space-between;
+display: flex;
+justify-content: space-between;
 }
 .jeromeC2{
-    display: none;
+display: none;
 }
 /*              section5          */
 .see-text{
-    font-weight: 700;
+padding-top: 50px;
+font-weight: 700;
 font-size: 48px;
 color: #020E10;
 }
 /*            footer         */
 footer{
-    background: #020E10;
+background: #020E10;
 }
 .logotips{
-    display: flex;
-    justify-content: space-around;
-    margin-top: 50px;
+display: flex;
+justify-content: space-around;
+margin-top: 50px;
 }
 .night{
-    font-size: 20px;
-    color: white;
+font-size: 20px;
+color: white;
 }
 .photoF{
-     padding-top: 50px;   
-    margin-bottom: 50px;
+    padding-top: 50px;   
+margin-bottom: 50px;
 }
 .copy-text{
-    font-weight: 400;
+font-weight: 400;
 font-size: 14px;
 color: #FFFFFC;
 line-height: 1px;
 }
 .company-text{
-    font-weight: 600;
+font-weight: 600;
 font-size: 20px;
 color: #FFFFFC;
 }
 .companyC{
-    padding-top: 50px;
+padding-top: 50px;
 }
 .blog-text{
-    font-weight: 400;
+font-weight: 400;
 font-size: 16px;
 color: #FFFFFC;
 }
 .tele{
-    position: relative;
-    right: 40px;
+position: relative;
+right: 40px;
 }
 .name{
-    background-color: black;
-    color: white;
-    outline: none;
-    /* border: none; */
+background-color: black;
+color: white;
+outline: none;
+/* border: none; */
 }
 .up-text{
-    font-weight: 600;
+font-weight: 600;
 font-size: 20px;
 color: #FFFFFC; 
 }
 .kompC2{
-    margin-top: 50px;
-    display: flex;
-    width: 550px;
-    align-items: center;
-    justify-content: space-around;
+margin-top: 50px;
+display: flex;
+width: 550px;
+align-items: center;
+justify-content: space-around;
 }
 .kompC3{
-    padding-left: 20px;
+padding-left: 20px;
 }
 .twenty-text{
-    font-weight: 600;
+font-weight: 600;
 font-size: 14px;
 }
 .tip-text{
-    font-weight: 700;
+font-weight: 700;
 font-size: 22px;
 }
 .long-text{
-    font-weight: 600;
+font-weight: 600;
 font-size: 14px;
 }
 .read-text{
-    text-decoration: none;
-    font-weight: 700;
+text-decoration: none;
+font-weight: 700;
 font-size: 16px;
 color: #016170;
 }
 .hold{
-    padding-top: 50px;
-    padding-bottom: 50px;
-    text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+text-align: center;
 }
 @media (max-width:575px) {
 body{
 width: 100%;
 }
 .seoCard1{
-    width: 100%;
+width: 100%;
 }
 
 .list{
@@ -358,10 +359,10 @@ text-align: center;
 margin: auto;
 }
 .section12{
-    display: block;
+display: block;
 }
 .section1{
-    display:  none;
+display:  none;
 }
 .tornadoP{
 margin-top: 20px;   
@@ -408,7 +409,7 @@ width: 100%;
 margin: auto;
 } */
 .you-text{
-    font-family: 'Wagon';
+font-family: 'Wagon';
 font-style: normal;
 font-weight: 700;
 font-size: 32px;
@@ -421,14 +422,14 @@ letter-spacing: 0.02em;
 color: #020E10;
 }
 .minim-text {
-    font-weight: 400;
-    font-size: 13px;
-    color: #020E10;
+font-weight: 400;
+font-size: 13px;
+color: #020E10;
 }
 .content-text {
-    font-weight: 700;
-    font-size: 18px;
-    color: #020E10;
+font-weight: 700;
+font-size: 18px;
+color: #020E10;
 }
 /* .pro-text {
 font-weight: 400;
@@ -436,7 +437,7 @@ font-size: 16px;
 color: #020E10;
 } */
 .pro-text{
-    font-family: 'Nunito Sans';
+font-family: 'Nunito Sans';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -448,125 +449,125 @@ width: 50%;
 }
 /*         section2       */
 .key{
-    display: block;
-    text-align: center;
-    width: 100%;
+display: block;
+text-align: center;
+width: 100%;
 }
 
 /*        section3       */
 .yelloC-2{
-    margin-left: 0;
-    display: block;
-    text-align: center;
+margin-left: 0;
+display: block;
+text-align: center;
 }
 .artP2{
-    margin-top: 0;
-    display: none;
+margin-top: 0;
+display: none;
 }
 .artP {
-    width: 90%;
-    height: 100%;
+width: 90%;
+height: 100%;
 }
 .photoC{
-    display: none;
+display: none;
 }
 .workC{
-    width: 100%;
+width: 100%;
 }
 .arrow-right{
-    margin: 30px;
-    text-align: center;
+margin: 30px;
+text-align: center;
 }
 .arrowRight{
-    width: 36%;
+width: 50%;
 }
 .arrowC{
-    padding-top: 20px;
-    padding-bottom: 30px;
-    text-align: center;
+padding-top: 20px;
+padding-bottom: 30px;
+text-align: center;
 }
 .num-text {
-    margin-top: 34px;
-    font-weight: 700;
-    font-size: 30px;
-    color: #FFFFFC;
-    font-family: 'Wagon';
+margin-top: 34px;
+font-weight: 700;
+font-size: 30px;
+color: #FFFFFC;
+font-family: 'Wagon';
 font-style: normal;
 }
 .key2 {
-    width: 200px;
-    margin: auto;
+width: 200px;
+margin: auto;
 }
 .client-text {
-    font-weight: 400;
-    font-size: 14px;
-    color: #FFFFFC;
+font-weight: 400;
+font-size: 14px;
+color: #FFFFFC;
 }
 .work-text {
-    font-family: 'Wagon';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
-    color: #020E10;
+font-family: 'Wagon';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+color: #020E10;
 }
 .jeromC{
-    display: none;
+display: none;
 }
 .jeromeC2{
-    display: block;
-    padding-bottom: 40px;
+display: block;
+padding-bottom: 40px;
 }
 .jeromeCard{
-    width: 100%;
-    margin: auto;
+width: 100%;
+margin: auto;
 }
 .peopleCard{
-    width: 100%;
+width: 100%;
 }
 .people-text {
-    padding-top: 80px;
-    padding-bottom: 50px;
-    font-weight: 700;
-    font-size: 33px;
-    color: #FFFFFC;
+padding-top: 80px;
+padding-bottom: 50px;
+font-weight: 700;
+font-size: 33px;
+color: #FFFFFC;
 }
 /*          footer          */
 .nout{
-    display: block;
+display: block;
 }
 .companyC{
-    text-align: center;
+text-align: center;
 }
 .night{
-    margin-left: 20px;
+margin-left: 20px;
 }
 .logotips{
-    justify-content: start;
+justify-content: start;
 }
 .name{
-    width: 90%;
+width: 90%;
 }
 .free{
-    text-align: center;
-    padding-bottom: 50px;
+text-align: center;
+padding-bottom: 50px;
 }
 /*                  section5       */
 .kompC2{
-    padding-top: 50px;
-    display: block;
-    width: 90%;
-    margin: auto;
+padding-top: 50px;
+display: block;
+width: 90%;
+margin: auto;
 }
 .human{
-    display: block;
+display: block;
 }
 .kompC3{
-    padding-left: 0;
+padding-left: 0;
 }
 .long-text{
-    font-size: 17px;
+font-size: 17px;
 }
 .micro{
-    width: 100%;
+width: 100%;
 }
 }
