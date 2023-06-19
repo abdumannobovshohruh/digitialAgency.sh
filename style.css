@@ -247,6 +247,12 @@ color: #FFFFFC;
 .jeromeC2{
     display: none;
 }
+/*              section5          */
+.see-text{
+    font-weight: 700;
+font-size: 48px;
+color: #020E10;
+}
 /*            footer         */
 footer{
     background: #020E10;
@@ -297,6 +303,39 @@ color: #FFFFFC;
     font-weight: 600;
 font-size: 20px;
 color: #FFFFFC; 
+}
+.kompC2{
+    margin-top: 50px;
+    display: flex;
+    width: 500px;
+    align-items: center;
+    justify-content: space-around;
+}
+.kompC3{
+    padding-left: 20px;
+}
+.twenty-text{
+    font-weight: 600;
+font-size: 14px;
+}
+.tip-text{
+    font-weight: 700;
+font-size: 22px;
+}
+.long-text{
+    font-weight: 600;
+font-size: 14px;
+}
+.read-text{
+    text-decoration: none;
+    font-weight: 700;
+font-size: 16px;
+color: #016170;
+}
+.hold{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
 }
 @media (max-width:575px) {
 body{
@@ -510,5 +549,24 @@ font-style: normal;
 .free{
     text-align: center;
     padding-bottom: 50px;
+}
+/*                  section5       */
+.kompC2{
+    padding-top: 50px;
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+.human{
+    display: block;
+}
+.kompC3{
+    padding-left: 0;
+}
+.long-text{
+    font-size: 17px;
+}
+.micro{
+    width: 100%;
 }
 }
